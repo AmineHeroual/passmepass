@@ -18,37 +18,37 @@ run
 ```
 ## url
 
-url = url of the site you want to copy
-ex) url https://twitter.com
+url = url of the site you want to copy  
+ex) url https://twitter.com  
 
 ## ngrok
 ```
 sudo apt install ngrok
 ```
-other terminal
+other terminal  
 
 ```
 ngrok http @@@@
 ```
-@@@@ =you like number
+@@@@ =you like number  
 
-ngrok url
-ex)ngrok https://eiharuhfahri.ngrok.io
+ngrok url  
+ex)ngrok https://eiharuhfahri.ngrok.io  
 
 ## port
 
 ```
 ngrok http @@@@
 ```
-port (number)
+port (number)  
 
-@@@@ = (number)
+@@@@ = (number)  
 
-ex)
-port 8000
+ex)  
+port 8000  
 
 ## run
 
-all settings
+all settings  
 run!!!!!!!!!!
 
