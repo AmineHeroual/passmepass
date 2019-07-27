@@ -3,15 +3,12 @@ Are you Japanese?
 please read this https://www.hack-file.com/entry/passmepass_info  
 日本人はこれを見てくださいhttps://www.hack-file.com/entry/passmepass_info
 僕のこのツールは言わば包丁であり、使う人次第です。
-もし、あなたがこのツールを引用する際は必ず
-https://twitter.com/1ibr4 のアカウントを紹介してください。  
-バグを発見し、より良いハッキングツールへと進化するためです
 
 
 # setting  
 
 ```
-git clone https://github.com/1ibr4/passmepass.git  
+git clone https://github.com/th0usand/passmepass.git  
 cd passmepass  
 python passmepass.py
 ```
