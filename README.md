@@ -2,7 +2,7 @@
 Are you Japanese?  
 please read this https://www.hack-file.com/entry/passmepass_info  
 日本人はこれを見てくださいhttps://www.hack-file.com/entry/passmepass_info
-僕のこのツールは言わば包丁であり、使う人次第です。
+
 
 
 # setting  
