@@ -49,7 +49,7 @@ class handler(SimpleHTTPServer.SimpleHTTPRequestHandler):
         
         arg = format%args
         if arg.split()[1] == "/":
-            printf(1, "%s - sent GET request without parameters.ask thousand" %self.address_string())
+            printf(1, "%s - sent GET request without parameters." %self.address_string())
         else:
             if arg.split()[1].startswith("/") and "&" in arg.split()[1]:
                 printf(1, "%s - sent GET request with parameters." %self.address_string())
