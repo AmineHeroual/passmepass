@@ -1,7 +1,9 @@
 # passmepass
 passmepass 
 hacking/cracking tool.
-this is able to phishing attack.
+this is able to phishing attack.  
+crack the yourpassword!!!
+
 
 # platform
 ubuntu kalilinux
@@ -58,4 +60,6 @@ port 8000
 
 all settings  
 run!!!!!!!!!!
-
+```
+run
+```
