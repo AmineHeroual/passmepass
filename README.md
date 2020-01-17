@@ -1,7 +1,11 @@
 # passmepass
-Are you Japanese?  
-please read this https://www.hack-file.com/entry/passmepass_info  
-日本人はこれを見てくださいhttps://www.hack-file.com/entry/passmepass_info
+passmepass 
+hacking/cracking tool.
+this is able to phishing attack.
+
+# platform
+ubuntu kalilinux
+linux(debian)
 
 
 
