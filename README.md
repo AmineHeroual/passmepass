@@ -23,7 +23,7 @@ Phising attack
 # setting  
 
 ```
-git clone https://github.com/th0usand/passmepass.git  
+git clone https://github.com/rnlioilm/passmepass.git  
 cd passmepass  
 python passmepass.py
 ```
