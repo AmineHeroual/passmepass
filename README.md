@@ -1,15 +1,24 @@
-# passmepass
+# pass me pass
 passmepass 
 hacking/cracking tool.
-this is able to phishing attack.  
-crack the yourpassword!!!
+This tool is able to phishing attack.  
 
 
-# platform
+# Platform
 ubuntu kalilinux
 linux(debian)
 
-
+# What this tool can do?
+Phising attack  
+1.please setting  
+  
+2.create fake HTMLpage.  
+  
+3.send fakeHTMLpage to target.  
+  
+4.Grab the data.  
+  
+5.Try to login the client to the original page  
 
 # setting  
 
