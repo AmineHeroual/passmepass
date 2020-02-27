@@ -9,10 +9,6 @@ Added serveo, twitter,facebook and other famous site!
 https://github.com/rnlioilm/passme2
 
 
-x-special/nautilus-clipboard
-copy
-file:///home/rnlioilm/Pictures/Screenshot%20from%202020-02-27%2019-38-30.png
-
 
 # Platform
 ubuntu kalilinux
