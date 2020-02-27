@@ -3,6 +3,10 @@ passmepass
 hacking/cracking tool.
 This tool is able to phishing attack.  
 
+new version!!!
+add serveo and twitter,facebook,other famous site!  
+https://github.com/rnlioilm/passme2
+
 
 # Platform
 ubuntu kalilinux
