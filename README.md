@@ -4,7 +4,7 @@ hacking/cracking tool.
 This tool is able to phishing attack.  
 
 New version!!!  
-Added serveo and twitter,facebook,other famous site!  
+Added serveo, twitter,facebook and other famous site!  
 https://github.com/rnlioilm/passme2
 
 
