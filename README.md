@@ -8,7 +8,7 @@ This tool is able to phishing attack.
 
 New version!!!  
 Added serveo, twitter,facebook and other famous site!   
-https://github.com/rnlioilm/passme2
+# https://github.com/rnlioilm/passme2
 
 
 
