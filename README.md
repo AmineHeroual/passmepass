@@ -4,9 +4,12 @@
 passmepass 
 hacking/cracking tool.
 This tool is able to phishing attack.  
-
-
-
+  
+  
+I have created a version of **serveo**, but I can no longer use it.  
+This is because the servo prohibits use for phishing purposes.  
+As a result, the version went down.  
+Have a nice hacking day<3  
 
 # Platform
 ubuntu kalilinux
