@@ -4,6 +4,8 @@
 passmepass 
 hacking/cracking tool.
 This tool is able to phishing attack.  
+
+  
   
   
 I have created a version of **serveo**, but I can no longer use it.  
@@ -11,6 +13,17 @@ This is because the serveo prohibits use for phishing purposes.
 As a result, the version went down.  
 Have a nice hacking day<3  
 
+  
+  
+# Author
+
+Author :rnlioilm
+https://twitter.com/rnlioilm
+
+Please feel free to ask a question.(But only DM)
+  
+    
+    
 # Platform
 ubuntu kalilinux
 linux(debian)
@@ -30,9 +43,10 @@ Phising attack
 # setting  
 
 ```
-git clone https://github.com/rnlioilm/passmepass.git  
-cd passmepass  
-python passmepass.py
+$ sudo snap install ngrok
+$ git clone https://github.com/rnlioilm/passmepass.git  
+$ cd passmepass  
+$ python passmepass.py
 ```
 # how to use 
 ```
@@ -43,39 +57,50 @@ run
 ```
 ## url
 
-url = url of the site you want to copy  
-ex) url https://twitter.com  
+url = url of the site you want to copy.
 
+ex)  
+```
+passmepass >>> url https://twitter.com  
+```
 ## ngrok
-```
-sudo apt install ngrok
-```
+
 other terminal  
 
 ```
-ngrok http @@@@
+passmepass >>>ngrok http @@@@
 ```
 @@@@ =you like number  
 
 ngrok url  
-ex)ngrok https://eiharuhfahri.ngrok.io  
+ex)
+```
+passmepass >>>ngrok https://eiharuhfahri.ngrok.io
+```
 
 ## port
 
 ```
-ngrok http @@@@
+passmepass >>>ngrok http @@@@
 ```
 port (number)  
 
 @@@@ = (number)  
 
 ex)  
-port 8000  
+```
+passmepass >>> port 8000
+```
+**But ngrok and port number must be same.**
 
 ## run
 
-all settings  
-run!!!!!!!!!!
+All set? 
+Please enter "run"
 ```
-run
+passmepass >>run
 ```
+
+# special thanks
+
+All phishing tools.
